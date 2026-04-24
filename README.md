@@ -48,6 +48,3 @@ CREATE TABLE entregas (
   status VARCHAR(20) NOT NULL DEFAULT 'pendente',
   destino TEXT NOT NULL
 );
-Esse texto único já está pronto para ser usado como documentação em Markdown, HTML ou mesmo em formato simples de README.
-
-Quer que eu adapte esse conteúdo para ficar em formato de manual técnico (com seções de uso, exemplos práticos em SQL e boas práticas)?
